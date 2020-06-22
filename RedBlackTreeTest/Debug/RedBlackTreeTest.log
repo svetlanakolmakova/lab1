@@ -1,0 +1,27 @@
+﻿  pch.cpp
+  RedBlackTreeTest.cpp
+H:\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(20,22): warning C4018: <: несоответствие типов со знаком и без знака
+H:\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(33,22): warning C4018: <: несоответствие типов со знаком и без знака
+H:\RedBlackTree\RedBlackTree\List.h(65,41): warning C4018: <=: несоответствие типов со знаком и без знака
+H:\RedBlackTree\RedBlackTree\List.h(64): message : во время компиляции функции-члена класс шаблон "T List<T>::at(size_t)"
+H:\RedBlackTree\RedBlackTree\List.h(64): message :         with
+H:\RedBlackTree\RedBlackTree\List.h(64): message :         [
+H:\RedBlackTree\RedBlackTree\List.h(64): message :             T=int
+H:\RedBlackTree\RedBlackTree\List.h(64): message :         ]
+H:\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(21): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::at(size_t)"
+H:\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(21): message :         with
+H:\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(21): message :         [
+H:\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(21): message :             T=int
+H:\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(21): message :         ]
+H:\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(20): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<T>"
+H:\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(20): message :         with
+H:\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(20): message :         [
+H:\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(20): message :             T=int
+H:\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(20): message :         ]
+H:\RedBlackTree\RedBlackTree\List.h(75,2): warning C4018: <: несоответствие типов со знаком и без знака
+H:\RedBlackTree\RedBlackTree\Map.h(406,40): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+H:\RedBlackTree\RedBlackTree\Map.h(367): message : во время компиляции функции-члена класс шаблон "void Map<int,int>::delete_fix(Map<int,int>::Node *)"
+H:\RedBlackTree\RedBlackTree\Map.h(163): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Map<int,int>::delete_fix(Map<int,int>::Node *)"
+H:\RedBlackTree\RedBlackTreeTest\RedBlackTreeTest.cpp(13): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Map<int,int>"
+     Создается библиотека H:\RedBlackTree\Debug\RedBlackTreeTest.lib и объект H:\RedBlackTree\Debug\RedBlackTreeTest.exp
+  RedBlackTreeTest.vcxproj -> H:\RedBlackTree\Debug\RedBlackTreeTest.dll
